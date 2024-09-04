@@ -1,1 +1,1 @@
-## This repo contains a docker file which has a simple flask web app.
+## This repo contains all the files related to mlops for example docker, git etc.
