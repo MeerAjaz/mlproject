@@ -1,1 +1,1 @@
-### This repo contains a sample project related to machine learning
+### This repo contains a sample end to end machine learning project.
