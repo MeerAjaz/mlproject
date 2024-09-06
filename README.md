@@ -1,1 +1,1 @@
-## This repo contains all the files related to mlops for example docker, git etc.
+## This repo contains a simple end to end machine learning project.
